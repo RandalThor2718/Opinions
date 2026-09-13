@@ -1,2 +1,2 @@
 # Opinions
-My opinions regarding certain people
+A list of adversaries in HTML
